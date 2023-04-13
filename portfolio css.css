@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+
+body h2 { position: absolute;
+    top: -8px;
+    right: 53px;
+}
+body p2 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 5vh;
+	
+}
+body p5 { position: absolute;
+	top: 212px;
+	right: 100px;
+}
+body p1 { position: absolute;
+	top: 212px;
+	left: 100px;
+}
